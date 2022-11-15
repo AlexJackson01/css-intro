@@ -6,7 +6,7 @@ In this repository, you will practice using key features of CSS!
 - Link the `index.html` and `main.css` files together
 - Target an element and change its colour.
 - Pick a heading tag and change its font size. Make it bold and underlined.
-- Import a font from Google fonts, link it to your HTML page and try to use it for one of your elements
+- Import a font from Google Fonts, link it to your HTML page and try to use it for one of your elements
 - Create two `<div>` sections. Style each of them with different background colours/fonts/different border styles. Try experimenting with the padding and margins to see how you can position content within each div. *Hint:  Use different class names for each div*
 
 ## Flexbox Bonus!
